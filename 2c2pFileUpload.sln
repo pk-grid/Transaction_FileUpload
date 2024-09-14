@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{FDF682ED-43C3-4753-8F30-6ED662440E01}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileUploader", "FileUploader\FileUploader.csproj", "{FDF682ED-43C3-4753-8F30-6ED662440E01}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
